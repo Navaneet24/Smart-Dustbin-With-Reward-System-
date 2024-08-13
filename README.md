@@ -1,1 +1,1 @@
-# Smart-Dustbin-With-Reward-System-
+# Smart-Dustbin-With-Reward-System
